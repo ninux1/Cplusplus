@@ -1,0 +1,6 @@
+1) The Private specifier makes data available for that class only.
+2) the Protected specifier makes data only available to the derived classes.
+3) Public specifer makes data available to public with no restrictions.
+
+Static member functions in the class.
+	For member functions declared static inside a class means they can be accessed without a object instantiation.They can be accessed simply with class name and function. 
